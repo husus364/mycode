@@ -13,7 +13,7 @@ In this series, we’ll go over creating real software with AI — and I’ll te
 ## 📝 les infff
 
 
-fuck this code
+fuck this
 
 1. 🧱 **Tech Stack (10 min):** [Watch on YouTube](https://youtu.be/ZFtoJIQdmC4)  
 2. 🔧 **Set Up (31 min):** [Watch on YouTube](https://youtu.be/BjAJPm5sqz0)  
