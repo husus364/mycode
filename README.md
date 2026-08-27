@@ -29,7 +29,7 @@ fuck this
 ---
 
 
-## 🛠️ Tech Stack
+## 🛠️ ez
 
 - ☁️ **Firebase**  
   Unified backend services to build, improve & grow your apps.  
